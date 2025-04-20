@@ -1,4 +1,4 @@
-# 📊 Police-Involved Deaths in the USA: Data Exploration Project
+# 📊 Police-Involved Deaths in the USA: Data Science Project
 
 This project investigates data related to deaths involving police officers in the United States. The goal is to explore patterns, trends, and disparities across time, location, race, and other relevant factors. 
 
